@@ -9,20 +9,24 @@ body {
 }
 
 h1 {
-	background-color: rgb(95, 2, 93);
+	background-color: rgb(102, 38, 223);
 	color: hsl(0, 0%, 0%);
 	padding: 40px;
 	text-align: center;
 }
 
 p {
-	background-color: #ffffff;
+	background-color: #6257f4;
 }
 
 div {
   font-weight: bold;
   color: #ffffff;
   margin: 5px;
+}
+
+label {
+  background-color: #ffffff;
 }
 
 #display-results{
